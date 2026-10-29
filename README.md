@@ -1,6 +1,6 @@
 # Sadia-Rajpoot
 DreamScape — A Space for Dreams &amp; Imagination. An AI-assisted website project created for the Generative AI assignment.
-DreamScape — A Space for Dreams & Imagination 🌙
+DreamScape — A Space for Dreams & Imagination🌙
 Project Overview
 DreamScape is a creative website designed around dreams, imagination, and storytelling. Its calm, moonlit visual theme provides a welcoming space for users to explore their imagination and begin their dream-journaling journey.
 This project was created as part of the Generative AI assignment for the BS Information Technology program at Superior University.
